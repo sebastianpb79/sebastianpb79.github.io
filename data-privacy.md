@@ -7,3 +7,5 @@ This website in itself does not collect user data. It also does not employ track
 However, this website is built upon the product GitHub Pages and, thus, is hosted on GitHub.
 
 In this context the data-protection and data privacy mechanisms of GitHub apply. Please read more on this here. Thank you.
+
+... [back](/)

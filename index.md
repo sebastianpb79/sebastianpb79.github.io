@@ -15,3 +15,6 @@ There are three programming languages in the browser:
 1. JavaScript 
 
 I want to express this **important** issue. Other issues are in _italics_. And I can show how this ~~does not~~ works.
+
+
+[Data Protection](/data-privacy.md) 
